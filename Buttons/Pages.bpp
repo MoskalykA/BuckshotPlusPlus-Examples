@@ -1,0 +1,8 @@
+include "Pages/Home.bpp"
+
+page index {
+	title = "Home!"
+	body = Home
+   fonts = ["https://fonts.googleapis.com/css?family=Open+Sans"]
+   css = ["https://cdn.jsdelivr.net/npm/modern-normalize@1.1.0/modern-normalize.css"]
+}
