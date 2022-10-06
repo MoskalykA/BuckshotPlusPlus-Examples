@@ -76,22 +76,6 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch
 5. Open a Pull Request
 
-### :exclamation: Guideline
-coding guidelines or other things you want people to follow should follow.
-
-
-## :question: FAQ
-You can optionally add a FAQ section about the project.
-
-##  :page_facing_up: Resources
-Add important resources here
-
-##  :camera: Gallery
-Pictures of your project.
-
-## :star2: Credit/Acknowledgment
-Credit the authors here.
-
 ## Authors
 
 * **[MoskalykA](https://github.com/MoskalykA)** - *Developer* 
