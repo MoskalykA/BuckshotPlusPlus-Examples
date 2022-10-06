@@ -120,6 +120,7 @@ view Button {
 
 event ButtonPrimaryOver {
    background_color = "rgb(79 70 229)"
+   cursor = "pointer"
 }
 
 event ButtonPrimaryOut {
@@ -137,6 +138,7 @@ view ButtonPrimary:Button {
 
 event ButtonSuccessOver {
    background_color = "rgb(21 128 61)"
+   cursor = "pointer"
 }
 
 event ButtonSuccessOut {
@@ -154,6 +156,7 @@ view ButtonSuccess:Button {
 
 event ButtonErrorOver {
    background_color = "rgb(220 38 38)"
+   cursor = "pointer"
 }
 
 event ButtonErrorOut {
@@ -171,6 +174,7 @@ view ButtonError:Button {
 
 event ButtonWarningOver {
    background_color = "rgb(202 138 4)"
+   cursor = "pointer"
 }
 
 event ButtonWarningOut {
@@ -188,6 +192,7 @@ view ButtonWarning:Button {
 
 event ButtonInfoOver {
    background_color = "rgb(13 148 136)"
+   cursor = "pointer"
 }
 
 event ButtonInfoOut {
@@ -205,7 +210,7 @@ view ButtonInfo:Button {
 
 event ButtonDarkOver {
    background_color = "rgb(31 41 55)"
-   cursor= "pointer"
+   cursor = "pointer"
 }
 
 event ButtonDarkOut {
@@ -223,7 +228,7 @@ view ButtonDark:Button {
 
 event ButtonLightOver {
    background_color = "rgb(209 213 219)"
-   cursor= "pointer"
+   cursor = "pointer"
 }
 
 event ButtonLightOut {
