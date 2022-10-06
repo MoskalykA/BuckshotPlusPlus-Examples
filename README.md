@@ -94,5 +94,4 @@ Credit the authors here.
 
 ## Authors
 
-* **[TailwindComponents](https://tailwindcomponents.com/component/button-component-default/landing)** - *Basic component* 
 * **[MoskalykA](https://github.com/MoskalykA)** - *Developer* 
