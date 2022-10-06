@@ -96,6 +96,3 @@ Credit the authors here.
 
 * **[TailwindComponents](https://tailwindcomponents.com/component/button-component-default/landing)** - *Basic component* 
 * **[MoskalykA](https://github.com/MoskalykA)** - *Developer* 
-
-##  :lock: License
-Add a license here, or a link to it.
